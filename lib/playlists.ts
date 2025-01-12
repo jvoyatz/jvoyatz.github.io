@@ -20,6 +20,3 @@ export async function getPlaylists(): Promise<Playlist[]> {
     // Add more playlists as needed
   ];
 }
-
-`
-
