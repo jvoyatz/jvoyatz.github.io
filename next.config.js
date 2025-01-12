@@ -4,9 +4,16 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  transpilePackages: [
+    '@radix-ui/react-accordion',
+    '@radix-ui/react-alert-dialog',
+    '@radix-ui/react-dialog',
+    '@radix-ui/react-slot'
+  ],
 }
 
 module.exports = nextConfig
+
 
 // let userConfig = undefined
 // try {

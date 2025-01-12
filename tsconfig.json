@@ -21,7 +21,10 @@
     ],
     "paths": {
       "@/*": ["./*"],
-      "@radix-ui/react-accordion": ["./node_modules/@radix-ui/react-accordion"]
+      "@radix-ui/react-alert-dialog": ["./node_modules/@radix-ui/react-alert-dialog"],
+      "@radix-ui/react-accordion": ["./node_modules/@radix-ui/react-accordion"],
+      "@radix-ui/react-dialog": ["./node_modules/@radix-ui/react-dialog"],
+      "@radix-ui/react-slot": ["./node_modules/@radix-ui/react-slot"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
