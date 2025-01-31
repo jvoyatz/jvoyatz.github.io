@@ -1,9 +1,9 @@
 # Inspired from https://github.com/actions/starter-workflows/blob/main/pages/nextjs.yml
-name: GitHub Pages
+name: GitHub Pages - Old
 
 on:
   push:
-    branches: main
+    branches: master
   workflow_dispatch:
 
 permissions:
