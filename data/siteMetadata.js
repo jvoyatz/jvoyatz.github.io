@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'jvoyatz portfolio',
   author: 'Ioannis Vogiatzis',
   headerTitle: 'jvoyatz',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'Personal portfolio',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://jvoyatz.github.io',
